@@ -1,7 +1,7 @@
 # ---------------------------------
 # 03_similarity_matrix.R
 # Build similarity and distance matrices
-# ---------------------------------
+# ---------------------------------3
 
 cat("Reading parsed BLAST file...\n")
 
