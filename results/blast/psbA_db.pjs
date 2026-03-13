@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "psbA_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "data/raw/psbA_sequences.fasta",
+  "number-of-letters": 28323,
+  "number-of-sequences": 80,
+  "last-updated": "2026-03-12T19:35:00",
+  "number-of-volumes": 1,
+  "bytes-total": 80113,
+  "bytes-to-cache": 29156,
+  "files": [
+    "psbA_db.pdb",
+    "psbA_db.phr",
+    "psbA_db.pin",
+    "psbA_db.pot",
+    "psbA_db.psq",
+    "psbA_db.ptf",
+    "psbA_db.pto"
+  ]
+}
