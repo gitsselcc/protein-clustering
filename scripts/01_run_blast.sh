@@ -26,3 +26,6 @@ blastp \
 -num_threads 4
 
 echo "BLAST finished."
+
+echo "Number of sequences:"
+grep ">" $FASTA | wc -l
